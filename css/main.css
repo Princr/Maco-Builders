@@ -58,9 +58,9 @@ h3 a,
 h4 a,
 h5 a,
 h6 a { color: #272727;}
-p a{color:#ffcc33;}
+p a{color:#2f3192;}
 p a:hover {
-	color: #ffcc33;
+	color: #2f3192;
 	text-decoration:underline;
 }
 p {
@@ -69,13 +69,13 @@ p {
 	margin-bottom: 10px;
 }
 a {
-	color: #ffcc33;
+	color: #2f3192;
 	text-decoration: none;
 }
 a:hover, a:focus, a:active {
 	outline: none;
 	text-decoration: none;
-	color:#ffcc33;
+	color:#2f3192;
 }
 ul { margin-bottom: 0; }
 figure {
@@ -545,7 +545,7 @@ address { font-style: italic; }
 .tg-pagination li.tg-prev a i,
 .tg-pagination li.tg-next a i{font-size:17px;}
 .new{
-	border-bottom: 100px solid #ffcc33;
+	border-bottom: 100px solid #2f3192;
 	border-left: 50px solid transparent;
 	border-right: 50px solid transparent;
 	height: 0;
@@ -567,7 +567,7 @@ body.home #header{
 	z-index:4;
 }
 #header{
-	background:#f7f7f7;
+	background:#FFF;
 	padding:13px 0 0;
 	border-bottom:1px solid;
 }
@@ -772,7 +772,7 @@ body.home #nav ul{ padding: 5px 0 0;}
 	float: left;
 	border: 1px solid #dbdbdb;
 	border-top: 3px solid;
-	background: #f7f7f7;
+	background: #FFF;
 }
 .home-slider .owl-controls .owl-pagination .owl-page span{ display: none;}
 .home-slider .owl-controls .owl-buttons .owl-prev,
@@ -1490,7 +1490,7 @@ form .form-group .forgetpassword i,
 }
 .tg-aboutus .tg-description{ padding:0;}
 .tg-aboutus .tg-description p{ margin:0 0 20px;}
-.tg-skillreview-bg{ background:#f7f7f7;}
+.tg-skillreview-bg{ background:#FFF;}
 .skill-group{
 	float:left;
 	width:100%;
@@ -1596,7 +1596,7 @@ tg-reviewer-img img{display:block;}
 	z-index:1;
 }
 .tg-member-detail{
-	background:#f7f7f7;
+	background:#FFF;
 	padding:20px;
 }
 .tg-member-detail span{
@@ -1614,7 +1614,7 @@ tg-reviewer-img img{display:block;}
 }
 .tg-member-detail .tg-social-icon li a:hover,
 .tg-member-detail .tg-social-icon li a{background:#272727;}
-.tg-member-detail .tg-social-icon li a i{color:#f7f7f7;}
+.tg-member-detail .tg-social-icon li a i{color:#FFF;}
 .tg-member-detail .tg-social-icon li a:hover{ border-radius:2px;}
 .tg-brands{
 	padding:50px 0;
@@ -1687,7 +1687,7 @@ tg-reviewer-img img{display:block;}
 .tg-panel-heading h3.actives a:after{content:'\f0d7';}
 .tg-panel-body{
 	padding:10px 30px;
-	background:#f7f7f7;
+	background:#FFF;
 	float:left;
 	width:100%;
 }
@@ -1737,7 +1737,7 @@ tg-reviewer-img img{display:block;}
 	width:100%;
 	padding:40px;
 	border:0;
-	background:#f7f7f7;
+	background:#FFF;
 }
 .tg-portfolio-content .tg-theme-heading{
 	border:0;
@@ -1819,7 +1819,7 @@ tg-reviewer-img img{display:block;}
 		Virtual Construct First Step Style
 ============================================= */
 .tg-upload-area{
-	background:#f7f7f7;
+	background:#FFF;
 	padding:15px;
 	text-align:center;
 }
@@ -1921,14 +1921,14 @@ tg-reviewer-img img{display:block;}
 .tg-nav-tabsslider ul li{
 	list-style-type:none;
 	line-height:inherit;
-	background:#f7f7f7;
+	background:#FFF;
 	float:left;
 }
 .tg-nav-tabsslider ul a{
 	display:block;
 	color:#272727;
 	position:relative;
-	border-bottom:3px solid #f7f7f7;
+	border-bottom:3px solid #FFF;
 }
 .tg-nav-tabsslider ul li a:after{
 	content:'';
@@ -2047,7 +2047,7 @@ body.comingsoon-page .comming-soon h2{
 	text-align: center;
 	width: 170px;
 	padding:15px 0;
-	background:#f7f7f7;
+	background:#FFF;
 	color:#434343;
 	font-size:16px;
 	line-height:19px;
@@ -2338,7 +2338,7 @@ body.comingsoon-page .comming-soon h2{
 	line-height:12px;
 }
 .about-author{
-	background:#f7f7f7;
+	background:#FFF;
 	padding:30px;
 }
 .about-author h3{
